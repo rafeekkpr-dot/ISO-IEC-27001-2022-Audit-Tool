@@ -1,1 +1,0 @@
-# ISO-IEC-27001-2022-Audit-Tool
